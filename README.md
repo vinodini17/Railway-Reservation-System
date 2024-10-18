@@ -4,14 +4,16 @@
 ## Reg no:212223110062
 
 ## USE CASE DIAGRAM
-![Screenshot 2024-10-18 105541](https://github.com/user-attachments/assets/c023f513-c3af-481d-98de-58d88a5f5d53)
-## CLASS DIAGRAM
-![Screenshot 2024-10-18 105557](https://github.com/user-attachments/assets/82a9201e-c9e0-420c-bc33-7f84c5379e82)
-## SEQUENCE DIAGRAM
-![Screenshot 2024-10-18 105609](https://github.com/user-attachments/assets/5a9ec5fd-2ef3-4c52-abfe-ba650f49e039)
-## ACTIVITY DIAGRAM
-![Screenshot 2024-10-18 105937](https://github.com/user-attachments/assets/033c2a3c-40ce-45fd-8703-a30823b7180a)
+![Screenshot 2024-10-18 105746](https://github.com/user-attachments/assets/e1b6e0ef-5eea-485b-8ac9-01cf495e0547)
 
+## CLASS DIAGRAM
+![Screenshot 2024-10-18 105829](https://github.com/user-attachments/assets/2f3f46a9-7c94-49cb-ba9d-98844fd0e15a)
+
+## SEQUENCE DIAGRAM
+![Screenshot 2024-10-18 105859](https://github.com/user-attachments/assets/20ff8306-f040-486c-9bb3-0bfa3a921893)
+
+## ACTIVITY DIAGRAM
+![Screenshot 2024-10-18 105937](https://github.com/user-attachments/assets/da7b8607-bc96-48d0-87f9-6297747bcf71)
 
 ## RESULT
 The UML Diagrams for Railway reservation system have been successfully created and implemented using StarUML.
