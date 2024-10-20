@@ -1,5 +1,7 @@
 ## EX 3 RAILWAY RESERVATION
 
+## AIM: 
+To create UML Diagrams for Railway reservation system using StarUML.
 ## USE CASE DIAGRAM
 ![Screenshot 2024-10-18 105746](https://github.com/user-attachments/assets/e1b6e0ef-5eea-485b-8ac9-01cf495e0547)
 
