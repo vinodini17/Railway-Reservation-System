@@ -1,4 +1,4 @@
-## EX 3 RAILWAY RESERVATION
+## EX 3 RAILWAY RESERVATION SYSTEM
 
 ## AIM: 
 To create UML Diagrams for Railway reservation system using StarUML.
